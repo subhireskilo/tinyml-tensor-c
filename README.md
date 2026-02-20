@@ -54,7 +54,7 @@ Projeyi bilgisayarınızda derlemek ve test etmek için aşağıdaki adımları 
 
 &nbsp;  ```bash
 
-&nbsp;  git clone \[https://github.com/KULLANICI\_ADINIZ/tinyml-tensor-c.git](https://github.com/KULLANICI\_ADINIZ/tinyml-tensor-c.git)
+&nbsp;  git clone \[https://github.com/subhireskilo/tinyml-tensor-c)
 
 &nbsp;  cd tinyml-tensor-c
 
